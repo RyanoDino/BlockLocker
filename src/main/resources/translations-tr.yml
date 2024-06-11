@@ -23,10 +23,10 @@ protection:
   no_permission_for_claim: "&4Bir konteynerı talep etme izniniz yok, üzgünüm."
   not_nearby: "&4Yakınında korunabilir bir blok yok. Bir tabela taşıyarak bir konteynera (Shift-)sağ tıklayın."
 tag:
-  everyone: "Herkes"
-  timer: "Zamanlayıcı"
-  redstone: "Kızıltaş"
-  private: "[Özel]"
+  everyone: Herkes
+  timer: Zamanlayıcı
+  redstone: Kızıltaş
+  private: "[Kilit]"
   more_users: "[Ekstra Kullanıcı]"
 updater:
   more_information: "&6Daha fazla bilgi: {0}"
